@@ -1,0 +1,18 @@
+127.0.0.1 localhost
+127.0.0.1 shesha.freemyip.com
+# The following lines are desirable for IPv6 capable hosts
+::1 localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+2a01:7c8:7c8::1337 github.com
+2a01:7c8:7c8::1337 api.github.com
+2a01:7c8:7c8::1337 codeload.github.com
+2a01:7c8:7c8::1337 objects.githubusercontent.com
+2a01:7c8:7c8::1337 raw.githubusercontent.com
+2a01:7c8:7c8::1337 ghcr.io
+2a01:7c8:7c8::1337 pkg.github.com
+2a01:7c8:7c8::1337 npm.pkg.github.com
+2a01:7c8:7c8::1337 maven.pkg.github.com
+2a01:7c8:7c8::1337 nuget.pkg.github.com
+2a01:7c8:7c8::1337 rubygems.pkg.github.com
